@@ -52,5 +52,3 @@ python main.py
 
 ## 致谢
 > GitHub [@Byaidu](https://github.com/Byaidu) &nbsp;&middot;&nbsp;
-
-```
