@@ -14,12 +14,11 @@
    [📖 原项目README](https://github.com/Byaidu/PDFMathTranslate/blob/main/README.md)
  
 2. 获取必要的API密钥：
+
    - OpenAI API密钥（必须）
    - Deepseek API密钥（可选）
    - 硅基流动API密钥（可选）
-   ...
 
-   ```
 
 ## ✨ 功能增强
 
