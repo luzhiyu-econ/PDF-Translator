@@ -1,7 +1,8 @@
 [![Forked Project](https://img.shields.io/badge/Forked_From-PDFMathTranslate-blue?style=for-the-badge&logo=github)](https://github.com/Byaidu/PDFMathTranslate)
 
 
-# PDF Scientific Paper Translator (Enhanced Fork)
+# PDF-Translator
+使用可视化界面的形式简化调用的过程
 
 ⚠️ **项目溯源声明**
 本仓库是基于 [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 的增强实现版本，核心功能继承自原项目，部分功能进行了改进和扩展。
@@ -50,9 +51,6 @@ python main.py
 
 
 ## 致谢
-
-特别感谢以下同学的贡献与支持：
-
 > GitHub [@Byaidu](https://github.com/Byaidu) &nbsp;&middot;&nbsp;
 
 ```
