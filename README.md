@@ -2,7 +2,7 @@
 
 
 # PDF-Translator
-使用可视化界面的形式简化调用的过程
+使用可视化界面的形式简化通过pdf2zh调用大语言模型翻译英文文献的过程
 
 ⚠️ **项目溯源声明**
 本仓库是基于 [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) 的增强实现版本，核心功能继承自原项目，部分功能进行了改进和扩展。
@@ -16,9 +16,9 @@
  
 2. 获取必要的API密钥：
 
-   - OpenAI API密钥（必须）
    - Deepseek API密钥（可选）
    - 硅基流动API密钥（可选）
+   - 其他平台API密钥
 
 
 ## ✨ 功能增强
