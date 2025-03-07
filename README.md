@@ -32,9 +32,7 @@
 ### 基础依赖安装
 ```bash
 # 必须首先安装原项目依赖
-git clone https://github.com/Byaidu/PDFMathTranslate.git
-cd PDFMathTranslate
-pip install -r requirements.txt
+pip install pdf2zh
 
 # 然后安装本分支新增依赖
 cd ..
