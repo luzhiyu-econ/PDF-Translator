@@ -1,4 +1,4 @@
 PyQt5==5.15.9
-pdf2zh>=2.9.1
+pdf2zh>=1.9.3
 python-dotenv==1.0.0
 uv==0.1.45
