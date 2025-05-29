@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 如果您无法通过 Git 克隆项目，也可以通过以下百度网盘链接进行下载：
-[百度网盘下载链接](https://pan.baidu.com/s/1R3g_WCb-m2uQbCODt-A1hA?pwd=ty7h)
+[百度网盘下载链接](https://pan.baidu.com/s/1KqG1Y4J3envWX3_X56K2Vg?pwd=u8hx)
 
 ### 2. 启动程序
 
